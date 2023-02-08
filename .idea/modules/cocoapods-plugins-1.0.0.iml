@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../Expense/vendor/bundle/ruby/3.1.0/gems/cocoapods-plugins-1.0.0" />
+    <orderEntry type="jdk" jdkName="RVM: ruby-3.1.2" jdkType="RUBY_SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="escape (v0.0.4, RVM: ruby-3.1.2) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="fuzzy_match (v2.0.4, RVM: ruby-3.1.2) [gem]" level="application" />
+  </component>
+  <component name="RubyModuleProperties">
+    <option name="autoCreated" value="true" />
+  </component>
+</module>
